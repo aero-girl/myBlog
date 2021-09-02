@@ -1,4 +1,4 @@
-baseURL = "https://github.com/aero-girl/aero-girl.github.io.git"
+baseURL = "aero-girl.github.io/myBlog"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
